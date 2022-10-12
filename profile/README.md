@@ -1,4 +1,5 @@
-![GDSC LPU LOGO](https://user-images.githubusercontent.com/85444889/195270176-372573cc-1231-44ea-ac82-53dd815b9b59.png)
+![GDSC LPU Banner](https://user-images.githubusercontent.com/85444889/195273650-e1946173-ffcb-4813-8b66-672fede70efe.png)
+
 
 
 

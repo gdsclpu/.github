@@ -1,12 +1,15 @@
 ![GDSC LPU Banner](https://user-images.githubusercontent.com/85444889/195273650-e1946173-ffcb-4813-8b66-672fede70efe.png)
 
 
-
-
 <h3 align="center">
 🎉 Welcome to Google Developer Student Club - LPU 🎉
 </h3>
 
+<a href="https://gdsc.community.dev/lovely-professional-university-jalandhar/">
+<p align="center">
+  <img src="https://img.shields.io/badge/Join%20Club-24a0ed?style=for-the-badge&logo=Join%20Club&logoColor=white" alt="Join GDSC LPU Club" />
+</p>
+</a>
 
 <h2>📌 <ins>About Us</ins></h2>
 <p>
